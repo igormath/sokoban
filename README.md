@@ -37,4 +37,4 @@ Após compilar o jogo, execute o seguinte comando também na pasta raiz do proje
 O jogo será iniciado e você poderá começar a jogar.
 
 ## **Créditos**
-Este jogo foi implementado por [Igor Matheus](https://github.com/igormath). A biblioteca Raylib é desenvolvida e mantida por Raylib Team. Texturas feitas por [Kenney](www.kenney.nl) sob licença Creative Commons Zero.
+Este jogo foi implementado por [Igor Matheus](https://github.com/igormath). A biblioteca Raylib é desenvolvida e mantida por Raylib Team. Texturas feitas por [Kenney](www.kenney.nl) sob licença Creative Commons Zero. Música por [Paulo Akio](https://www.youtube.com/watch?v=0xAa_EKix6w)
