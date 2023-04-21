@@ -4,6 +4,8 @@ Versão do nível 2 do jogo Sokoban implementado em C utilizando a biblioteca [R
 ## **Descrição**
 Sokoban é um jogo do tipo "puzzle" onde o jogador controla um personagem que precisa mover caixas para determinados locais dentro do mapa. Nesta versão, o objetivo é colocar a caixa no local correto para terminar o nível. O jogo é perdido se o personagem ficar preso ou não conseguir movimentar a caixa.
 
+![Print-screen do jogo em funcionamento](https://raw.githubusercontent.com/igormath/sokoban/main/assets/Screenshot%20from%202023-04-19%2018-44-03.png)
+
 ## **Como jogar**
 Para jogar Sokoban, utilize as seguintes teclas:
 
